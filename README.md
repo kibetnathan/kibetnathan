@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="Y[2lkPTc5MGI3NjExZnMwNnZwYzAxcnYyaW55azRmYzdpcXdqdHVpNnZsbm04eXZxZTN5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnMwNnZwYzAxcnYyaW55azRmYzdpcXdqdHVpNnZsbm04eXZxZTN5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)"  />
 </div>
 
 ###
@@ -65,10 +65,9 @@ I'm Nathan, a junior software developer from Nairobi.<br><br>
 
 ###
 
-<h3 align="left">My Stats:</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kibetnat&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=kibetnathan&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
   </a>
 </div>
