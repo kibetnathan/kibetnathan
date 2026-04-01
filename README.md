@@ -14,9 +14,9 @@
 
 <p align="left">
 I'm Nathan, a junior software developer from Nairobi.<br><br>
-- 🔭 I'm working on full-stack e-commerce and social platforms.<br>
-- 📚 I'm currently learning Java, Go, Rust, and deepening my knowledge of Data Structures and Algorithms.<br>
-- ⚡ In my free time I enjoy bodybuilding, golf, and reading manga.
+- I'm working on full-stack e-commerce and social platforms.<br>
+- I'm currently learning C, Go, Laravel, and deepening my knowledge of Data Structures and Algorithms.<br>
+- In my free time I enjoy bodybuilding, golf, and reading manga.
 </p>
 
 <h3 align="left">Language and tools</h3>
